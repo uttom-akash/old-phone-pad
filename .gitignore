@@ -1,0 +1,74 @@
+# Build artifacts
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.vspscc
+*.vssscc
+*.suo
+*.cache
+*.log
+*.ncb
+*.opendb
+*.pidb
+*.svclog
+*.sdf
+*.pdb
+*.bak
+
+# Visual Studio files
+.vscode/
+.vs/
+
+# Test results
+TestResults/
+*.coverage
+*.coveragexml
+*.trx
+*.testsettings
+*.vsmdi
+
+# ASP.NET-specific files
+appsettings.Development.json
+appsettings.Local.json
+appsettings.Production.json
+secrets.json
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+
+# IDE
+.idea/
+
+# Logs
+*.log
+logs/
+
+# Environment files
+.env
+.env.*.local
+
+# Publish output
+publish/
+
+# Temporary files
+*.tmp
+*.cache
+*.swp
+*.bak
+*.~*
+
+# Resharper
+*.DotSettings.user
+
+# Rider
+.idea/
+
+# Others
+*.db
+Thumbs.db
+.DS_Store
